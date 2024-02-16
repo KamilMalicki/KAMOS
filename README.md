@@ -26,5 +26,9 @@ XGUI - XGUI
 
 CACHE - CCHE
 
+ASCII - ASCI
 
+- nie ma w starej wersji - tylko od wersji 10.0
+
+HEX , HEXDUMP , LIST
 
