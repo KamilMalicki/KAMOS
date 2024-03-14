@@ -32,3 +32,7 @@ ASCII - ASCI
 
 HEX , HEXDUMP , LIST
 
+- nie ma w starej wersji - tylko od wersji 11.0
+
+KBASIC
+
