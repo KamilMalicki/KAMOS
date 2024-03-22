@@ -1,6 +1,6 @@
 Licencja Testowania i Użytkowania dla Projektu KamOs
 
-Zezwala się na korzystanie z tego projektu (zwany dalej "Projektem") w celach testowania i użytkowania bez ograniczeń, z zastrzeżeniem poniższych warunków.
+Zezwala się na korzystanie z tego projektu w celach testowania i użytkowania bez ograniczeń, z zastrzeżeniem poniższych warunków.
 
 1. Nie wolno modyfikować tego Projektu bez wyraźnej pisemnej zgody autora, Kamil Malicki.
 
