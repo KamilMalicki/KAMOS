@@ -8,7 +8,7 @@ KAMOS 12 (Kamil Operating System) is a lightweight operating system designed for
 
 - Basic commands for system management.
 - Fat12 based file system.
-- The "KB3" interpreter is a FreeBasic interpreter written by Mike Sauder
+- The "KB3" interpreter is a FreeBasic interpreter written by Mike Saunder
 
 ## Application
 
