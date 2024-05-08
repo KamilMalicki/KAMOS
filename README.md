@@ -2,7 +2,7 @@
 
 ## Description
 
-KAMOS 12 (Kamil Operating System) is a lightweight operating system designed for the x86 architecture. Contains basic commands and a fat12 based file system. The system allows users to interact with it through a command-line interface. the system is partially based on the MikeOS project and is based on mikedev.inc, i.e. the mikeOS API.
+KAMOS 12 (Kamil Operating System) is a lightweight operating system designed for the x86 architecture by Kamil Malicki. Contains basic commands and a fat12 based file system. The system allows users to interact with it through a command-line interface. the system is partially based on the MikeOS project and is based on mikedev.inc, i.e. the mikeOS API.
 
 ## Characteristics
 
@@ -44,10 +44,6 @@ After installation, you can use KAMOS by following these steps:
 KAMOS applications are welcome! If you would like to contribute, please follow these tips:
 - write an email to kamilpusiu2008@gmail.com
 - write a message with an attached file
-
-## License
-
-This design is licensed under an "All Rights Reserved" license.
 
 ## Author
 
