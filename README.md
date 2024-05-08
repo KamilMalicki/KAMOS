@@ -2,7 +2,7 @@
 
 ## Description
 
-KAMOS (Kamil Operating System) is a lightweight operating system designed for x86 architecture. It features basic commands and a file system based on CHS (Cylinder-Head-Sector). The system allows users to interact with it through a command-line interface.
+KAMOS (Kamil Operating System) is a lightweight operating system designed for x86 architecture by Kamil Malicki. It features basic commands and a file system based on CHS (Cylinder-Head-Sector). The system allows users to interact with it through a command-line interface.
 
 ## Features
 
